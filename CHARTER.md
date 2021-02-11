@@ -11,15 +11,15 @@ A. Mission
 The mission of the Genesis Project is to:
 
 1. provide tools that enable cloud operators to properly deploy
-   cloud-native solutions on top of CLoud Foundry BOSH (an Open
-   Source VM orchestration solution).
+   cloud-native solutions on top of Cloud Foundry BOSH (an Open
+   Source VM orchestration solution);
 
 2. produce and distribute reliable, performant, and properly
    structured deployment plans for a wide array of Open Source
    cloud-native solutions, like Cloud Foundry, Concourse, SHIELD,
-   etc., to the community of Genesis users.
+   etc., to the community of Genesis users;
 
-3. Advocate and evangelize the use and implementation of Genesis,
+3. advocate and evangelize the use and implementation of Genesis,
    its kits, and the cloud-native solutions they enable and
    facilitate.
 
@@ -81,7 +81,7 @@ B. Governance Board
 
     1. coordinating the direction of the Project;
 
-    2. stablishing any project policies, including for the addition
+    2. establishing any project policies, including for the addition
        and removal of Maintainers and documenting any requirements
        for official project releases;
 
